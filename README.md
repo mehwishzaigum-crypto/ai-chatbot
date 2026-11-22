@@ -1,23 +1,35 @@
 # Starting Application - NextJS TypeScript
 AI Chatbot
 
-Project Overview
+About the Project
 
-AI Chatbot is a web-based application project developed using Next.js and TypeScript. The project aims to provide a user-friendly interface for interacting with an AI chatbot.
+AI Chatbot is a web-based application developed using Next.js and TypeScript.
 
 Technologies Used
 
 - Next.js
-- TypeScript
 - React
+- TypeScript
 - CSS
 
 Project Structure
 
-- "src/" – Application source code
-- "public/" – Static assets
-- "package.json" – Project dependencies and scripts
+- src – Application source code
+- public – Static files and assets
+- package.json – Project dependencies
 
-Purpose
+Getting Started
 
-The purpose of this project is to develop a modern web-based chatbot application and practice full-stack web development.
+First, install the dependencies:
+
+npm install
+
+Run the development server:
+
+npm run dev
+
+Open http://localhost:3000 in your browser.
+
+Developer
+
+AI Chatbot Project
